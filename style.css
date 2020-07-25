@@ -1,0 +1,24 @@
+.ads{
+    width: 300px ;
+    margin: 15% auto;
+    
+}
+.ads:hover{
+    box-shadow:0 35px 37px 0 yellow;
+}
+.ads img{
+    margin: auto;
+    width: 250px;
+    padding: 20px;
+}
+.con{
+    margin-top: auto;
+    padding: 30px;
+}
+.con h5 {
+    font-weight: lighter;
+    font-size: 24px;
+    padding: 28px;
+    border-bottom:4px solid lightgray; 
+}
+
